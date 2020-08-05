@@ -1,5 +1,3 @@
-# Pedro Chamberlain
-
 ## Nice to meet you! 👋
  <br/>🍔&nbsp;He/Him
  <br/>💻&nbsp;Interning at **Globo.com** as Software Engineer on the Video Player team.
