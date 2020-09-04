@@ -1,4 +1,4 @@
-<img align='right' src='https://raw.githubusercontent.com/pedrochamberlain/pedrochamberlain/master/mario_head.gif' width='200"'>
+<img align='right' src='https://raw.githubusercontent.com/pedrochamberlain/pedrochamberlain/main/mario_head.gif' width='200"'>
 
 ## Nice to meet you! 👋
  <br/>🍔&nbsp;He/Him
