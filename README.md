@@ -2,9 +2,9 @@
 
 ## Hi! Nice to meet you! 👋
 
-<br/>🤠&nbsp; I'm Pedro.
-<br/>🍜&nbsp; He / Him
-<br/>💻&nbsp; Interning at **Globo.com** as Software Engineer on the Video Players team
+<br/>🤠&nbsp; I'm Pedro
+<br/>🍜&nbsp; My pronouns are he/him
+<br/>💻&nbsp; Currently interning at **Globo.com** as a Software Engineer on the Video Players team
  
 [![Gmail Badge](https://img.shields.io/badge/GMAIL-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pedrochmatos@gmail.com)](mailto:pedrochmatos@gmail.com)
 [![Letterboxd Badge](https://img.shields.io/badge/Letterboxd-21282f?style=for-the-badge&logo=Letterboxd&logoColor=white&link=https://www.letterboxd.com/pedrochambs/)](https://www.letterboxd.com/pedrochambs/)
