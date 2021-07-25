@@ -1,12 +1,42 @@
-<img align='right' src='https://raw.githubusercontent.com/pedrochamberlain/pedrochamberlain/main/mario_head.gif' width='200"'>
+<!-- Header -->
+<h3 align="center">
+  <samp>&gt; Hello!, I am
+          <b><a target="_blank" href="https:///">Pedro Chamberlain</a></b>
+  </samp>
+</h3>
 
-## Hi! Nice to meet you! 👋
+<!-- Hero -->
+<p align="center">
+   <img src='https://raw.githubusercontent.com/pedrochamberlain/pedrochamberlain/main/icons/mario_kart.gif' width='200"'>
+</p>
 
-<br/>🤠&nbsp; I'm Pedro
-<br/>🍜&nbsp; My pronouns are he/him
-<br/>💻&nbsp; Currently interning at **Globo.com** as a Software Engineer on the Video Players team
- 
-[![Gmail Badge](https://img.shields.io/badge/GMAIL-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pedrochmatos@gmail.com)](mailto:pedrochmatos@gmail.com)
-[![Letterboxd Badge](https://img.shields.io/badge/Letterboxd-21282f?style=for-the-badge&logo=Letterboxd&logoColor=white&link=https://www.letterboxd.com/pedrochambs/)](https://www.letterboxd.com/pedrochambs/)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-chamberlain-199304167/)
-[![Tumblr Badge](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white)](https://sonimage.tumblr.com/)
+<!-- Bio -->
+<p align="center">
+  <!-- Personal Info -->
+  <samp>
+    「 From Rio de Janeiro, Brasil 」<br>
+    「 Software Engineer Intern @<b> Globo.com</b> 」<br>
+    「 Computer Science Graduate Student @<b> PUC-Rio</b> 」
+  </samp>
+  <br><br>
+  <!-- Social Media -->
+  <!-- Gmail -->
+  <a href="mailto:pedrochmatos@gmail.com"> 
+    <img src="https://img.shields.io/badge/GMAIL-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pedrochmatos@gmail.com">
+  </a>
+
+  <!-- Linkedin -->
+  <a href="https://www.linkedin.com/in/pedro-chamberlain-199304167/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <!-- Linktree -->
+  <a href="https://linktr.ee/pedrochamberlain"> 
+    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/pedrochambie"> 
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>
