@@ -1,7 +1,7 @@
 <!-- Header -->
 <h3 align="center">
   <samp>&gt; Hello!, I am
-          <b><a target="_blank" href="https:///">Pedro Chamberlain</a></b>
+          <b><a href="https://linktr.ee/pedrochamberlain">Pedro Chamberlain</a></b>
   </samp>
 </h3>
 
