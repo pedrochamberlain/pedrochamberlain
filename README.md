@@ -15,7 +15,7 @@
   <!-- Personal Info -->
   <samp>
     「 From Rio de Janeiro, Brasil 」<br>
-    「 Software Engineer Intern @<b> Globo.com</b> 」<br>
+    「 Software Developer @<b> Globo.com</b> 」<br>
     「 Computer Science Graduate Student @<b> PUC-Rio</b> 」
   </samp>
   <br><br>
