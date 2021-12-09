@@ -16,7 +16,7 @@
   <samp>
     「 From Rio de Janeiro, Brasil 」<br>
     「 Software Developer @<b> Globo.com</b> 」<br>
-    「 Computer Science Graduate Student @<b> PUC-Rio</b> 」
+    「 Computer Science Graduate @<b> PUC-Rio</b> 」
   </samp>
   <br><br>
   <!-- Social Media -->
