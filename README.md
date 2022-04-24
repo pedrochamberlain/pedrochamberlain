@@ -1,7 +1,7 @@
 <!-- Header -->
 <h3 align="center">
   <samp>&gt; Hello!, I am
-          <b><a href="https://linktr.ee/pedrochamberlain">Pedro Chamberlain</a></b>
+          <b><a href="https://lnk.io/pedroch">Pedro Chamberlain</a></b>
   </samp>
 </h3>
 
@@ -15,7 +15,7 @@
   <!-- Personal Info -->
   <samp>
     「 From Rio de Janeiro, Brasil 」<br>
-    「 Software Developer @<b> Globo.com</b> 」<br>
+    「 Junior Software Developer @<b> Globo.com</b> 」<br>
     「 Computer Science Graduate @<b> PUC-Rio</b> 」
   </samp>
   <br><br>
@@ -28,15 +28,5 @@
   <!-- Linkedin -->
   <a href="https://www.linkedin.com/in/pedro-chamberlain-199304167/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <!-- Linktree -->
-  <a href="https://linktr.ee/pedrochamberlain"> 
-    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
-  </a>
-
-  <!-- Telegram -->
-  <a href="https://t.me/pedrochambie"> 
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
