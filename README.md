@@ -14,8 +14,8 @@
 <p align="center">
   <!-- Personal Info -->
   <samp>
-    「 From Rio de Janeiro, Brasil 」<br>
-    「 Junior Software Developer @<b> Globo</b> 」<br>
+    「 Rio de Janeiro, Brasil 」<br>
+    「 Software Developer @<b> Globo</b> 」<br>
     「 Computer Science Graduate @<b> PUC-Rio</b> 」
   </samp>
 </p>
